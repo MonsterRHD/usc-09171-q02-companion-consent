@@ -1,0 +1,4 @@
+[
+  {"event_id":"evt-71","device_id":"orbit-08","pairing_id":"pair-home-a","sequence":71,"captured_at":"2026-09-12T14:00:03+08:00","signals":{"mood":"low","confidence":0.72,"touch":"hold"}},
+  {"event_id":"evt-72","device_id":"orbit-08","pairing_id":"pair-home-a","sequence":72,"captured_at":"2026-09-12T14:00:08+08:00","signals":{"risk":"needs_attention","confidence":0.81}}
+]
